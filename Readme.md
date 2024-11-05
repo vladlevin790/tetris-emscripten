@@ -41,11 +41,11 @@ You can use any of the following methods to start a web server:
   php -S localhost:8000
   ```
 
-- **Using Live Server (if you have VS Code)**:
-   1\. Open the project folder in Visual Studio Code.
-   2\. Install the "Live Server" extension.
-   3\. Right-click on `index.html` and select "Open with Live Server".
-   
+- **Using Live Server (if you have VS Code):**
+  - Open the project folder in Visual Studio Code.
+  - Install the "Live Server" extension.
+  - Right-click on `index.html` and select "Open with Live Server".
+
 3. **Play the Game**
 Open your web browser and navigate to `http://localhost:8000`. Click the "Start Game" button to begin playing!
 
