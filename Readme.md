@@ -23,7 +23,7 @@ Make sure you have the following installed:
 1. **Build the Project**
    Open your terminal and navigate to the project directory. Then run:
    ```bash
-        make
+    make
    ```
 
 This will compile the C/C++ code into WebAssembly using Emscripten.
@@ -42,10 +42,10 @@ You can use any of the following methods to start a web server:
   ```
 
 - **Using Live Server (if you have VS Code)**:
-   1. Open the project folder in Visual Studio Code.
-   2. Install the "Live Server" extension.
-   3. Right-click on `index.html` and select "Open with Live Server".
-
+   1\. Open the project folder in Visual Studio Code.
+   2\. Install the "Live Server" extension.
+   3\. Right-click on `index.html` and select "Open with Live Server".
+   
 3. **Play the Game**
 Open your web browser and navigate to `http://localhost:8000`. Click the "Start Game" button to begin playing!
 
